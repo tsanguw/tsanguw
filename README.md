@@ -48,7 +48,7 @@ I'm a third-year student at the University of Washington Bothell studying Comput
 *June 2024 – August 2024*  
 Developed a comprehensive Pokémon database application using Flutter and Android Studio  
 
-### ⛈ [Arduino Weather Station Project](URL_TO_FINAL_REPORT)
+### ⛈ [Arduino Weather Station Project](https://docs.google.com/document/d/1qD82ZIab0fvyMiR1PAI8SIvDpzjYGvKN/edit?usp=sharing&ouid=116416219633790831631&rtpof=true&sd=true)
 *October 2023 – December 2023*  
 Designed and created a "weather station" with built-in display & wireless capabilities
 
