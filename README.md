@@ -60,6 +60,7 @@ Designed and developed a personal portfolio website using Webflow and Figma
 
 #
 
+<!--
 ### 🏫 Education
 
 ### Bachelor of Science in Computer Science and Software Engineering (CSSE)
@@ -74,6 +75,7 @@ Designed and developed a personal portfolio website using Webflow and Figma
 *Relevant Coursework:* Introduction to Programming, Introduction to Web Development
 
 #
+-->
 
 ### 📊 Stats
 
