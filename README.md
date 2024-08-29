@@ -2,6 +2,7 @@
 **`Computer Science and Software Engineering @ UW`**
 
 I'm a third-year student at the University of Washington Bothell studying Computer Science and Software Engineering!
+<!--
 - 🔭 I’m currently working on finding a a job 🖥
 - 🌱 I’m currently learning something (probably) 🤷‍♂️
 - 🤔 I’m looking for help with finding projects to contribute to!
@@ -9,6 +10,7 @@ I'm a third-year student at the University of Washington Bothell studying Comput
 - 📫 How to reach me: Use one of my links below or try my email
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
+-->
 
    <p align="left">
       <a href="https://www.linkedin.com/in/dtsang80/">
