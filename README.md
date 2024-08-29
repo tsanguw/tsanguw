@@ -46,6 +46,17 @@ I'm a third-year student at the University of Washington Bothell studying Comput
 
 ### 🏫 Education
 
+### Bachelor of Science in Computer Science and Software Engineering (CSSE)
+**University of Washington** - *Graduated August 2024*
+
+*Relevant Coursework:* Computer Programming I & II, Data Structure/Algorithms I & II, Software Engineering, Database Systems, Hardware and Computer Organization, Software Project Management  
+*Honors & Awards:* Dean’s List (Fall 2021, Spring 2022)
+
+### Associate in Arts & Sciences DTA with Distinction
+**Bellevue College**  - *Graduated June 2021*
+
+*Relevant Coursework:* Introduction to Programming, Introduction to Web Development
+
 #
 
 ### 📊 Stats
