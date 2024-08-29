@@ -6,7 +6,7 @@ I'm a third-year student at the University of Washington Bothell studying Comput
 - 🌱 I’m currently learning something (probably) 🤷‍♂️
 - 🤔 I’m looking for help with finding projects to contribute to!
 - 💬 Ask me about **open source, full-stack, databases, and Pokémon**
-- 📫 How to reach me: Try one of my links below or email me at 
+- 📫 How to reach me: Use one of my links below or try my email
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
@@ -41,6 +41,22 @@ I'm a third-year student at the University of Washington Bothell studying Comput
 #
 
 ### 💡 Projects
+
+### 📱 [Pokémon Database Mobile App Project](https://github.com/tsanguw/CSS-497-Pokedex-App)
+*June 2024 – August 2024*  
+Developed a comprehensive Pokémon database application using Flutter and Android Studio  
+
+### ⛈ [Arduino Weather Station Project](URL_TO_FINAL_REPORT)
+*October 2023 – December 2023*  
+Designed and created a "weather station" with built-in display & wireless capabilities
+
+### 🎞 [YouTube Database Project](https://github.com/zathaxx/YouTubeDB)
+*October 2023 – December 2023*  
+Developed a specialized database website focusing on YouTube statistics for channels and videos  
+
+### 🪧 [Personal Portfolio](https://daniel-tsang.webflow.io/)
+*September 2023*  
+Designed and developed a personal portfolio website using Webflow and Figma
 
 #
 
