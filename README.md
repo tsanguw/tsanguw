@@ -19,6 +19,8 @@ I'm a third-year student at the University of Washington Bothell studying Comput
          <img alt="Handshake" title="Connect with me on Handshake" src="https://custom-icon-badges.demolab.com/badge/-Handshake-FB501D?style=for-the-badge&logo=handshake&logoColor=white"/></a> 
       <a href="https://github.com/tsanguw">
          <img alt="GitHub" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://scratch.mit.edu/users/dtsang001/">
+         <img alt="Scratch" title="Follow me on Scratch" src="https://custom-icon-badges.demolab.com/badge/-Scratch-FFEB00?style=for-the-badge&logo=scratch&logoColor=black"/></a>
    </p>
 
 ---
