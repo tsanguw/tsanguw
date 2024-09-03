@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Daniel Tsang
 **`Computer Science and Software Engineering @ UW`**
 
-I'm a third-year student at the University of Washington Bothell studying Computer Science and Software Engineering!
+Hi, I'm Daniel! I am a recent graduate from the University of Washington Bothell with a bachelor's degree Computer Science and Software Engineering.
 <!--
 - 🔭 I’m currently working on finding a a job 🖥
 - 🌱 I’m currently learning something (probably) 🤷‍♂️
