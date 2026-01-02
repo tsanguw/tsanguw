@@ -47,22 +47,16 @@ Hi, I'm Daniel! I am a recent graduate from the University of Washington Bothell
 ### 💡 Projects
 
 ### 📱 [Pokémon Database Mobile App Project](https://github.com/tsanguw/CSS-497-Pokedex-App)
-*June 2024 – August 2024*  
+*2024 - 2025*  
 Developed a comprehensive Pokémon database application using Flutter and Android Studio  
 
 ### ⛈ [Arduino Weather Station Project](https://docs.google.com/document/d/1qD82ZIab0fvyMiR1PAI8SIvDpzjYGvKN/edit?usp=sharing&ouid=116416219633790831631&rtpof=true&sd=true)
-*October 2023 – December 2023*  
+*2023 - 2024*  
 Designed and created a "weather station" with built-in display & wireless capabilities
 
 ### 🎞 [YouTube Database Project](https://github.com/zathaxx/YouTubeDB)
-*October 2023 – December 2023*  
+*2023 - 2024*  
 Developed a specialized database website focusing on YouTube statistics for channels and videos  
-
-### 🪧 [Personal Portfolio](https://daniel-tsang.webflow.io/)
-*September 2023*  
-Designed and developed a personal portfolio website using Webflow and Figma
-
-#
 
 <!--
 ### 🏫 Education
@@ -94,7 +88,7 @@ Designed and developed a personal portfolio website using Webflow and Figma
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    I started learning about computer science in 2020 when I first discovered the basics of computer science at Bellevue College. From that point, I have had the opportunity to grow this interest by exploring different aspects of this field, from learning how to create projects in     languages in Java, HTML/CSS, or C#, to teaching others about the basics of programming with Scratch and GDevelop.
 
-[website]: https://daniel-tsang.webflow.io/
+[website]: 
 
 <!--
 **tsanguw/tsanguw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
