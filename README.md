@@ -21,6 +21,8 @@ Hi, I'm Daniel! I am a recent graduate from the University of Washington Bothell
          <img alt="GitHub" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
       <a href="https://scratch.mit.edu/users/dtsang001/">
          <img alt="Scratch" title="Follow me on Scratch" src="https://custom-icon-badges.demolab.com/badge/-Scratch-FFEB00?style=for-the-badge&logo=scratch&logoColor=black"/></a>
+      <a href="https://docs.google.com/document/d/15MXrpnWMomwWi-LErmVG1UkIfBPGCh6M/edit?usp=sharing&ouid=116416219633790831631&rtpof=true&sd=true">
+         <img alt="My Resume" title="View my resume" src="https://custom-icon-badges.demolab.com/badge/-Resume-4B4B4B?style=for-the-badge&logo=read-document&logoColor=white"/></a>
    </p>
 
 ---
@@ -89,7 +91,6 @@ Developed a specialized database website focusing on YouTube statistics for chan
    I started learning about computer science in 2020 when I first discovered the basics of computer science at Bellevue College. From that point, I have had the opportunity to grow this interest by exploring different aspects of this field, from learning how to create projects in     languages in Java, HTML/CSS, or C#, to teaching others about the basics of programming with Scratch and GDevelop.
 
 [website]:
-[resume]: https://docs.google.com/document/d/15MXrpnWMomwWi-LErmVG1UkIfBPGCh6M/edit?usp=sharing&ouid=116416219633790831631&rtpof=true&sd=true
 
 <!--
 **tsanguw/tsanguw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
