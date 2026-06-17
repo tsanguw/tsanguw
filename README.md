@@ -48,7 +48,7 @@ Hi, I'm Daniel! I am a recent graduate from the University of Washington Bothell
 
 ### 💡 Projects
 
-### 📱 [Windows Command Prompt Portfolio](https://github.com/tsanguw/cmd-portfolio)
+### 📺 [Windows Command Prompt Portfolio](https://github.com/tsanguw/cmd-portfolio)
 *2026*  
 A personal portfolio website styled and navigated as a Windows Command Prompt window using React.  
 
