@@ -48,6 +48,10 @@ Hi, I'm Daniel! I am a recent graduate from the University of Washington Bothell
 
 ### 💡 Projects
 
+### 📱 [Windows Command Prompt Portfolio](https://github.com/tsanguw/cmd-portfolio)
+*2026*  
+A personal portfolio website styled and navigated as a Windows Command Prompt window using React.  
+
 ### 📱 [Pokémon Database Mobile App Project](https://github.com/tsanguw/CSS-497-Pokedex-App)
 *2024 - 2025*  
 Developed a comprehensive Pokémon database application using Flutter and Android Studio  
