@@ -48,6 +48,10 @@ Hi, I'm Daniel! I am a recent graduate from the University of Washington Bothell
 
 ### 💡 Projects
 
+### 🎮 [Oracle Lens - Pro League of Legends Statistics](https://github.com/tsanguw/oracle-lens)
+*2026*  
+A full-stack League of Legends stats site using React, TypeScript, Express, and PostgreSQL across Cloudflare Pages, Render, and Neon.
+
 ### 📺 [Windows Command Prompt Portfolio](https://github.com/tsanguw/cmd-portfolio)
 *2026*  
 A personal portfolio website styled and navigated as a Windows Command Prompt window using React.  
